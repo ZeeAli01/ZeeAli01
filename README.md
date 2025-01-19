@@ -48,5 +48,4 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 </p>
 
 ## 📊 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeAli01&layout=compact&card_width=500&v=2)
+<a href="https://github.com/ZeeAli01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeAli01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
